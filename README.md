@@ -21,7 +21,9 @@ Participants :
   - valider (suffisant / pas suffisant)
   - entraîner
   - trier des méthodes
- 
+- critère
+  - facilité/rapidité d'annotation/de generation de GT
+  - robustesse de la GT.
 - framework général
   - matching avec optimisation métrique reco -> TPs
   - puis évaluation reco -> score reco
